@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vert online, Michael IRL
+- 👋 Hi, I’m Vert. I play games and make stuff
 - 👀 I’m interested in music and computers
 - 🌱 I’m currently a senior in high school
 - 📫 How to reach me:
