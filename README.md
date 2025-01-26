@@ -2,6 +2,6 @@
 - 👀 I’m interested in music and computers
 - 🌱 I’m currently a junior in college
 - 📫 How to reach me:
-  - [Bluesky]((https://bsky.app/profile/vertunderscore.bsky.social))
+  - [Bluesky](https://bsky.app/profile/vertunderscore.bsky.social)
   - Discord: vertunderscore
   - [Twitch](https://twitch.tv/vert_)
